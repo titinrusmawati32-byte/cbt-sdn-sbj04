@@ -1,0 +1,6 @@
+{
+  "name": "CBT Ujian Sekolah",
+  "description": "Aplikasi Computer Based Test (CBT) interaktif untuk ujian akhir sekolah dengan Portal Admin/Guru dan Portal Siswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
